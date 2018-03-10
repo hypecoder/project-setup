@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Oceanic Next",
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": true,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.formatOnSave": false,
+  
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#212426",
+      "statusBar.noFolderBackground": "#333333",
+      "statusBar.debuggingBackground": "#263238",
+      "editor.background": "#212426"
+    },
+    "editor.fontSize": 13,
+    "editor.fontWeight": "400",
+    "editor.fontFamily": "SF Mono,Source Code Pro,Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "none",
+  
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "editor.wordWrap": "on",
+    "team.showWelcomeMessage": false,
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.activeIconPack": "angular",
+    "material-icon-theme.folders.color": "#42a5f5",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "material-icon-theme.files.associations": {},
+    "material-icon-theme.folders.associations": {},
+    "material-icon-theme.languages.associations": {},
+    "workbench.iconTheme": "material-icon-theme"
+  }
