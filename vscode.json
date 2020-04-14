@@ -6,10 +6,10 @@
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
     "workbench.colorCustomizations": {
-        "statusBar.background": "#212426",
+        "statusBar.background": "#242426",
         "statusBar.noFolderBackground": "#333333",
         "statusBar.debuggingBackground": "#263238",
-        "editor.background": "#212426"
+        "editor.background": "#1c2022"
     },
     "files.autoSave": "onFocusChange",
     "editor.minimap.enabled": true,
